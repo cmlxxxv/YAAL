@@ -1,0 +1,7 @@
+**/History
+**/__Previews
+
+/CompTables
+*.laccdb
+
+.gitignore~
