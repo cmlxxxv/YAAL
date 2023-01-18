@@ -1,1 +1,7 @@
-it all starts with a readme
+Yet Another Altium Libary
+
+manual will be available soon.
+
+Ещё Одна Библиотека Altium
+
+руководство скоро будет.
