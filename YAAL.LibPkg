@@ -116,6 +116,23 @@ GenerateClassCluster=0
 DocumentUniqueId=FNUJYPMG
 
 [Document5]
+DocumentPath=SOURCE\Eval.Boards.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NYUTIDFI
+
+[Document6]
 DocumentPath=SOURCE\Fuses.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -132,7 +149,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQVATOTX
 
-[Document6]
+[Document7]
 DocumentPath=SOURCE\IC.ADC,DAC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -149,7 +166,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QBILRPAA
 
-[Document7]
+[Document8]
 DocumentPath=SOURCE\IC.Amplifiers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -166,7 +183,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVORASMU
 
-[Document8]
+[Document9]
 DocumentPath=SOURCE\IC.DDS,LO,PLL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -183,7 +200,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPQUSAKR
 
-[Document9]
+[Document10]
 DocumentPath=SOURCE\IC.FPGA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -200,7 +217,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TTATBNJM
 
-[Document10]
+[Document11]
 DocumentPath=SOURCE\IC.Interfaces.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -217,7 +234,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BGPODDEK
 
-[Document11]
+[Document12]
 DocumentPath=SOURCE\IC.Logic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -234,7 +251,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QJNGEKLQ
 
-[Document12]
+[Document13]
 DocumentPath=SOURCE\IC.MCU.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -251,7 +268,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BJSRRQSF
 
-[Document13]
+[Document14]
 DocumentPath=SOURCE\IC.Memory.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -268,7 +285,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHEBOTCA
 
-[Document14]
+[Document15]
 DocumentPath=SOURCE\IC.Power.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -285,7 +302,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LECOYLHU
 
-[Document15]
+[Document16]
 DocumentPath=SOURCE\IC.Sensors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,7 +319,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UIDTRDSV
 
-[Document16]
+[Document17]
 DocumentPath=SOURCE\Inductors.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -319,7 +336,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SKXLXRGF
 
-[Document17]
+[Document18]
 DocumentPath=SOURCE\LED.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -336,7 +353,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FIQNXOKY
 
-[Document18]
+[Document19]
 DocumentPath=SOURCE\Module.DC-DC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -353,7 +370,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOVOIAOY
 
-[Document19]
+[Document20]
 DocumentPath=SOURCE\Miscellaneous.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -370,7 +387,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NOVESSTN
 
-[Document20]
+[Document21]
 DocumentPath=SOURCE\Resistors.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -387,7 +404,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHWNDIGH
 
-[Document21]
+[Document22]
 DocumentPath=SOURCE\RF.Amplifiers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -404,7 +421,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DGDAELEA
 
-[Document22]
+[Document23]
 DocumentPath=SOURCE\RF.Attenuators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -421,7 +438,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMQDJGPO
 
-[Document23]
+[Document24]
 DocumentPath=SOURCE\RF.Couplers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -438,7 +455,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKFBQYYP
 
-[Document24]
+[Document25]
 DocumentPath=SOURCE\RF.Detectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -455,7 +472,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XDPWSETO
 
-[Document25]
+[Document26]
 DocumentPath=SOURCE\RF.Filters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -472,7 +489,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JJHRANCB
 
-[Document26]
+[Document27]
 DocumentPath=SOURCE\RF.Limiters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -489,7 +506,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NYUTIDFH
 
-[Document27]
+[Document28]
 DocumentPath=SOURCE\RF.Mixers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -506,7 +523,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SVSAHUHF
 
-[Document28]
+[Document29]
 DocumentPath=SOURCE\RF.Modulators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -523,7 +540,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSJNJUCJ
 
-[Document29]
+[Document30]
 DocumentPath=SOURCE\RF.Multipliers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -540,7 +557,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FYAWUQNH
 
-[Document30]
+[Document31]
 DocumentPath=SOURCE\RF.Splitters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -557,7 +574,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YUAHDFES
 
-[Document31]
+[Document32]
 DocumentPath=SOURCE\RF.Switches.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -574,7 +591,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BACEAQQN
 
-[Document32]
+[Document33]
 DocumentPath=SOURCE\RF.Transformers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -591,7 +608,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSMSVQXP
 
-[Document33]
+[Document34]
 DocumentPath=SOURCE\Semiconductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -608,7 +625,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QVBCYIKI
 
-[Document34]
+[Document35]
 DocumentPath=SOURCE\Switches.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -625,7 +642,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOFHACGO
 
-[Document35]
+[Document36]
 DocumentPath=SOURCE\Transformers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -642,7 +659,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KWYAJFNR
 
-[Document36]
+[Document37]
 DocumentPath=SOURCE\Conn.Harting.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -659,7 +676,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COHFLTGE
 
-[Document37]
+[Document38]
 DocumentPath=SOURCE\Conn.Misc.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -676,7 +693,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZVZOYUHG
 
-[Document38]
+[Document39]
 DocumentPath=SOURCE\Conn.Molex.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -693,7 +710,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBLUKBRY
 
-[Document39]
+[Document40]
 DocumentPath=SOURCE\Conn.Phoenix.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -710,7 +727,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BZEHYQLV
 
-[Document40]
+[Document41]
 DocumentPath=SOURCE\Conn.RF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -727,7 +744,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LTFYQEPS
 
-[Document41]
+[Document42]
 DocumentPath=SOURCE\Conn.Samtec.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -744,7 +761,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QVRCGJIV
 
-[Document42]
+[Document43]
 DocumentPath=SOURCE\EIA.DFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -761,7 +778,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JJTZIEXP
 
-[Document43]
+[Document44]
 DocumentPath=SOURCE\EIA.DO,SOD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -778,7 +795,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBEFXTIV
 
-[Document44]
+[Document45]
 DocumentPath=SOURCE\EIA.QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -795,7 +812,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUWOVSQN
 
-[Document45]
+[Document46]
 DocumentPath=SOURCE\EIA.QFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -812,7 +829,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNIWUOWN
 
-[Document46]
+[Document47]
 DocumentPath=SOURCE\EIA.SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -829,7 +846,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMBVAOXU
 
-[Document47]
+[Document48]
 DocumentPath=SOURCE\EIA.SO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -846,7 +863,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWRIHBTE
 
-[Document48]
+[Document49]
 DocumentPath=SOURCE\EIA.TO,SOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -863,7 +880,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVWCFWFV
 
-[Document49]
+[Document50]
+DocumentPath=SOURCE\Eval.Boards.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DBEFXTIW
+
+[Document51]
 DocumentPath=SOURCE\Mini-Circuits.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -880,7 +914,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EITWOSNP
 
-[Document50]
+[Document52]
 DocumentPath=SOURCE\Misc.DIP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -897,7 +931,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GQPOZCFM
 
-[Document51]
+[Document53]
 DocumentPath=SOURCE\Misc.SIP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -914,7 +948,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NISTJEQG
 
-[Document52]
+[Document54]
 DocumentPath=SOURCE\Misc.SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -931,7 +965,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZYNDPLCB
 
-[Document53]
+[Document55]
 DocumentPath=SOURCE\Misc.TH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -948,7 +982,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZHCNFWDO
 
-[Document54]
+[Document56]
 DocumentPath=SOURCE\Miscellaneous.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1081,6 +1115,16 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+OutputType22=SIMetrixNetlist
+OutputName22=SIMetrix
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=SIMPLISNetlist
+OutputName23=SIMPLIS
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -1092,6 +1136,16 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1188,6 +1242,12 @@ OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType14=PCBDrawing
+OutputName14=Draftsman
+OutputDocumentPath14=
+OutputVariantName14=[No Variations]
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
