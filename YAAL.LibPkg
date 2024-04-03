@@ -695,6 +695,23 @@ GenerateClassCluster=0
 DocumentUniqueId=DBEFXTIY
 
 [Document39]
+DocumentPath=SOURCE\Conn.AVX.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DBEFXTIZ
+
+[Document40]
 DocumentPath=SOURCE\Conn.Harting.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -711,7 +728,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COHFLTGE
 
-[Document40]
+[Document41]
 DocumentPath=SOURCE\Conn.Misc.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -728,7 +745,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZVZOYUHG
 
-[Document41]
+[Document42]
 DocumentPath=SOURCE\Conn.Molex.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -745,7 +762,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBLUKBRY
 
-[Document42]
+[Document43]
 DocumentPath=SOURCE\Conn.Phoenix.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -762,7 +779,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BZEHYQLV
 
-[Document43]
+[Document44]
 DocumentPath=SOURCE\Conn.RF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -779,7 +796,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LTFYQEPS
 
-[Document44]
+[Document45]
 DocumentPath=SOURCE\Conn.Samtec.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -796,7 +813,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QVRCGJIV
 
-[Document45]
+[Document46]
 DocumentPath=SOURCE\Conn.TE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -813,7 +830,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBEFXTIX
 
-[Document46]
+[Document47]
 DocumentPath=SOURCE\EIA.DFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -830,7 +847,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JJTZIEXP
 
-[Document47]
+[Document48]
 DocumentPath=SOURCE\EIA.DO,SOD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -847,7 +864,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBEFXTIV
 
-[Document48]
+[Document49]
 DocumentPath=SOURCE\EIA.QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -864,7 +881,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUWOVSQN
 
-[Document49]
+[Document50]
 DocumentPath=SOURCE\EIA.QFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -881,7 +898,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNIWUOWN
 
-[Document50]
+[Document51]
 DocumentPath=SOURCE\EIA.SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -898,7 +915,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMBVAOXU
 
-[Document51]
+[Document52]
 DocumentPath=SOURCE\EIA.SO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -915,7 +932,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWRIHBTE
 
-[Document52]
+[Document53]
 DocumentPath=SOURCE\EIA.TO,SOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -932,7 +949,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVWCFWFV
 
-[Document53]
+[Document54]
 DocumentPath=SOURCE\Eval.Boards.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -949,7 +966,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBEFXTIW
 
-[Document54]
+[Document55]
 DocumentPath=SOURCE\Mini-Circuits.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -966,7 +983,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EITWOSNP
 
-[Document55]
+[Document56]
 DocumentPath=SOURCE\Misc.DIP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -983,7 +1000,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GQPOZCFM
 
-[Document56]
+[Document57]
 DocumentPath=SOURCE\Misc.SIP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1000,7 +1017,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NISTJEQG
 
-[Document57]
+[Document58]
 DocumentPath=SOURCE\Misc.SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1017,7 +1034,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZYNDPLCB
 
-[Document58]
+[Document59]
 DocumentPath=SOURCE\Misc.TH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1034,7 +1051,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZHCNFWDO
 
-[Document59]
+[Document60]
 DocumentPath=SOURCE\Miscellaneous.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1807,6 +1824,8 @@ Type133=1
 Type134=1
 Type135=1
 Type136=1
+Type137=1
+Type138=1
 
 [Difference Levels]
 Type1=1
@@ -2036,6 +2055,8 @@ Type148=2
 Type149=2
 Type150=2
 Type151=2
+Type152=1
+Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
