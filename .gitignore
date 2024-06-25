@@ -5,3 +5,5 @@
 *.laccdb
 
 .gitignore~
+
+/.release-vault
