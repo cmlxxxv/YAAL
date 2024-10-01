@@ -2071,6 +2071,12 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
+[ToDoManager]
+ProjectToDo1=Name=Add SMD-PLS connectors|UID=HEGOUDJO
+ProjectToDo2=Name=Add PLS connectors up to 10 pin|UID=RVVHJDWV
+ProjectToDo3=Name=add tsr 2-2450|UID=TITCXWVR
+ProjectToDo4=Name=reorganise passives|UID=BWPCVPHV
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
