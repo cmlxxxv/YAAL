@@ -712,23 +712,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DBEFXTIW
 
 [Document40]
-DocumentPath=SOURCE\Caps.TH.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NQJKUPDU
-
-[Document41]
 DocumentPath=SOURCE\Conn.Amphenol.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -745,7 +728,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBEFXTIY
 
-[Document42]
+[Document41]
 DocumentPath=SOURCE\Conn.AVX.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -762,7 +745,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBEFXTIZ
 
-[Document43]
+[Document42]
 DocumentPath=SOURCE\Conn.Harting.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -779,7 +762,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COHFLTGE
 
-[Document44]
+[Document43]
 DocumentPath=SOURCE\Conn.Misc.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -796,7 +779,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZVZOYUHG
 
-[Document45]
+[Document44]
 DocumentPath=SOURCE\Conn.Molex.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -813,7 +796,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBLUKBRY
 
-[Document46]
+[Document45]
 DocumentPath=SOURCE\Conn.Phoenix.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -830,7 +813,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BZEHYQLV
 
-[Document47]
+[Document46]
 DocumentPath=SOURCE\Conn.RF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -847,7 +830,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LTFYQEPS
 
-[Document48]
+[Document47]
 DocumentPath=SOURCE\Conn.Samtec.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -864,7 +847,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QVRCGJIV
 
-[Document49]
+[Document48]
 DocumentPath=SOURCE\Conn.TE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -881,7 +864,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBEFXTIX
 
-[Document50]
+[Document49]
 DocumentPath=SOURCE\Conn.USB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -898,7 +881,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SQKJOASF
 
-[Document51]
+[Document50]
 DocumentPath=SOURCE\EIA.DFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -915,7 +898,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JJTZIEXP
 
-[Document52]
+[Document51]
 DocumentPath=SOURCE\EIA.DO,SOD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -932,7 +915,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBEFXTIV
 
-[Document53]
+[Document52]
 DocumentPath=SOURCE\EIA.LGA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -949,7 +932,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWWELXBW
 
-[Document54]
+[Document53]
 DocumentPath=SOURCE\EIA.QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -966,7 +949,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUWOVSQN
 
-[Document55]
+[Document54]
 DocumentPath=SOURCE\EIA.QFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -983,7 +966,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNIWUOWN
 
-[Document56]
+[Document55]
 DocumentPath=SOURCE\EIA.SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1000,7 +983,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMBVAOXU
 
-[Document57]
+[Document56]
 DocumentPath=SOURCE\EIA.SO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1017,7 +1000,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWRIHBTE
 
-[Document58]
+[Document57]
 DocumentPath=SOURCE\EIA.TO,SOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1034,7 +1017,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVWCFWFV
 
-[Document59]
+[Document58]
 DocumentPath=SOURCE\Mini-Circuits.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1051,7 +1034,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EITWOSNP
 
-[Document60]
+[Document59]
 DocumentPath=SOURCE\Misc.DIP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1068,7 +1051,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GQPOZCFM
 
-[Document61]
+[Document60]
 DocumentPath=SOURCE\Misc.SIP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1085,7 +1068,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NISTJEQG
 
-[Document62]
+[Document61]
 DocumentPath=SOURCE\Misc.SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1102,7 +1085,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZYNDPLCB
 
-[Document63]
+[Document62]
 DocumentPath=SOURCE\Misc.TH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1119,7 +1102,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZHCNFWDO
 
-[Document64]
+[Document63]
 DocumentPath=SOURCE\Miscellaneous.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1640,11 +1623,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=AnsysEDB
-OutputName13=Ansys EDB
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
