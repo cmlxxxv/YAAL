@@ -882,6 +882,23 @@ GenerateClassCluster=0
 DocumentUniqueId=SQKJOASF
 
 [Document50]
+DocumentPath=SOURCE\Conn.Wago.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DBEFXTJA
+
+[Document51]
 DocumentPath=SOURCE\EIA.DFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -898,7 +915,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JJTZIEXP
 
-[Document51]
+[Document52]
 DocumentPath=SOURCE\EIA.DO,SOD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -915,7 +932,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DBEFXTIV
 
-[Document52]
+[Document53]
 DocumentPath=SOURCE\EIA.LGA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -932,7 +949,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWWELXBW
 
-[Document53]
+[Document54]
 DocumentPath=SOURCE\EIA.QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -949,7 +966,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUWOVSQN
 
-[Document54]
+[Document55]
 DocumentPath=SOURCE\EIA.QFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -966,7 +983,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNIWUOWN
 
-[Document55]
+[Document56]
 DocumentPath=SOURCE\EIA.SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -983,7 +1000,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WMBVAOXU
 
-[Document56]
+[Document57]
 DocumentPath=SOURCE\EIA.SO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1000,7 +1017,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWRIHBTE
 
-[Document57]
+[Document58]
 DocumentPath=SOURCE\EIA.TO,SOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1017,7 +1034,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVWCFWFV
 
-[Document58]
+[Document59]
 DocumentPath=SOURCE\Mini-Circuits.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1034,7 +1051,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EITWOSNP
 
-[Document59]
+[Document60]
 DocumentPath=SOURCE\Misc.DIP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1051,7 +1068,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GQPOZCFM
 
-[Document60]
+[Document61]
 DocumentPath=SOURCE\Misc.SIP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1068,7 +1085,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NISTJEQG
 
-[Document61]
+[Document62]
 DocumentPath=SOURCE\Misc.SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1085,7 +1102,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZYNDPLCB
 
-[Document62]
+[Document63]
 DocumentPath=SOURCE\Misc.TH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1102,7 +1119,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZHCNFWDO
 
-[Document63]
+[Document64]
 DocumentPath=SOURCE\Miscellaneous.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1235,6 +1252,16 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+OutputType22=SIMetrixNetlist
+OutputName22=SIMetrix
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=SIMPLISNetlist
+OutputName23=SIMPLIS
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -1246,6 +1273,16 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
